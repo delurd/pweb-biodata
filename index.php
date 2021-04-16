@@ -4,7 +4,7 @@
         <link rel="stylesheet" href='https://fonts.googleapis.com/css?family=Fira+Sans:200,300,400,500,600,700,800,900&display=swap'>
         <title>Here Are We</title>
 
-        <!-- <script src="idx.js"></script> -->
+        <!-- <script src="index.js"></script> -->
         <link rel="stylesheet" href="style.css">
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
