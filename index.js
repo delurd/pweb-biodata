@@ -60,8 +60,8 @@ $(document).ready(function () {
             },
             success: function () {
                 alert("success");
-                $("#newCard").load('newCard.php'); //menampilkan temporary.php di id=newCard di index.php
-                $("#newDetailCard").load('newDetailCard.php'); //menampilkan tempDetailCard.php di id=newDetailCard di index.php
+                $("#newCard").load('newCard.php'); //menampilkan newCard.php di id=newCard di index.php
+                $("#newDetailCard").load('newDetailCard.php'); //menampilkan newDetailCard.php di id=newDetailCard di index.php
                 btnClose("Tambah"); //auto menutup detialcardtambahbaru jika proses selesai
                 clearInputan(); //auto menghapus isi/value pada detaicardtambahbaru
                 console.log(no_telp);

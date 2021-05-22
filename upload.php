@@ -19,8 +19,8 @@ mysqli_query($koneksi, "insert into user values('','$nama','$panggilan','$nim', 
 
 
 
-// data dari index.php dikirim melalui ajax ke upload.php untuk di upload ke database
+// data dari index.php dikirim melalui index.js(ajax) ke upload.php untuk di upload ke database
 
 // jika database user  di foreign key dengan id_prodi dan id_kelas maka *tidak dapat dilakukan upload data ke database user*
 
-//cara kerja penguploadan data dengan ajax ke database yang saya gunakan == index.php >> index.js(ajax) >> upload.php >> *database* >> temporary.php && temDetailCard.php >> index.js(ajax) >> index.php
+//cara kerja penguploadan data dengan ajax ke database yang saya gunakan == index.php >> index.js(ajax) >> upload.php >> *database* >> newCard.php && newDetailCard.php >> index.js(ajax) >> index.php

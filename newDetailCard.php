@@ -37,4 +37,4 @@ while ($d = mysqli_fetch_array($data)) {
 <?php } ?>
 
 
-<!-- tempDetailCard untuk menampilkan detailCardd  pada id=newDetailCard dengan perantara jquery di idx.js. datanya mengambil data dari database -->
+<!-- newDetailCard.php untuk menampilkan detailCardd  pada id=newDetailCard dengan perantara jquery di idx.js. datanya mengambil data dari database -->

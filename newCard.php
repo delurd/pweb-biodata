@@ -22,4 +22,4 @@ while ($d = mysqli_fetch_array($data)) { ?>
 <?php } ?>
 
 
-<!-- temporary untuk menampilkan card utama pada id=newCard dengan perantara jquery di idx.js. datanya mengambil data dari database -->
+<!-- newCard.php untuk menampilkan card utama pada id=newCard dengan perantara jquery di idx.js. datanya mengambil data dari database -->
